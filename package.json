@@ -14,10 +14,10 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
-    "@nuxtjs/google-analytics": "^2.0.2",
+    "@nuxtjs/google-analytics": "^2.0.3",
     "@nuxtjs/pwa": "^2.6.0",
     "intersection-observer": "^0.5.1",
-    "nuxt-edge": "^2.5.0-25822088.e4051b20",
+    "nuxt-edge": "^2.5.0-25829307.e083c38f",
     "nuxt-i18n": "^5.8.0",
     "nuxt-purgecss": "^0.2.1",
     "nuxt-svg-loader": "^1.0.1",
